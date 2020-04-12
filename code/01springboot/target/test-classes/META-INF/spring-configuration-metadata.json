@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "JdbcProperties",
+      "name": "jdbc",
+      "type": "JdbcProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "JdbcProperties",
+      "name": "jdbc.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "JdbcProperties",
+      "name": "jdbc.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "JdbcProperties",
+      "name": "jdbc.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "JdbcProperties",
+      "name": "jdbc.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

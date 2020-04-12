@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>v-指令</title>
+</head>
+<body>
+<div id="app">
+    <input type="checkbox" v-model="language" value="Java" />Java<br/>
+    <input type="checkbox" v-model="language" value="PHP" />PHP<br/>
+    <input type="checkbox" v-model="language" value="Swift" />Swift<br/>
+    <h1>
+        你选择了：{{language.join(',')}}
+    </h1>
+
+    <!--事件中直接写js片段-->
+    <button v-on:contextmenu.prevent="num++">增加一个</button><br/>
+    <!--事件指定一个回调函数，必须是Vue实例中定义的函数-->
+    <button  v-on:contextmenu="decrement($event)">减少一个</button><br/>
+    <h1>有{{num}}个女神迷恋峰哥</h1>
+
+
+    <!-- 只有在 `keyCode` 是 13 时调用 `vm.submit()` -->
+    <input v-on:keyup.13="submit">
+
+
+  <!--  <ul>
+        <li v-for="user in users">
+            {{user.name}} - {{user.gender}} - {{user.age}}
+        </li>
+    </ul>-->
+    <ul>
+        <li v-for="(user, index) in users">
+            {{index + 1}}. {{user.name}} - {{user.gender}} - {{user.age}}
+        </li>
+    </ul>
+
+
+    <button v-on:click="show = !show">点我呀</button>
+    <br>
+    <h1 v-if="show">
+        看到我啦？！
+    </h1>
+    <h1 v-show="show">
+        看到我啦？！show
+    </h1>
+
+
+    <li v-for="(user, index) in users" v-if="user.gender == '女'">
+        {{index + 1}}. {{user.name}} - {{user.gender}} - {{user.age}}
+    </li>
+
+
+    <!--可以是数据模型，可以是具有返回值的js代码块或者函数-->
+    <div v-bind:title="title" style="border: 1px solid #86ff9c; width: 50px; height: 50px;"></div>
+</div>
+<script src="./node_modules/vue/dist/vue.js"></script>
+<script type="text/javascript">
+    var vm = new Vue({
+        el:"#app",
+        data:{
+            language: [],
+            num:50,
+            users:[
+                {name:'柳岩', gender:'女', age: 21},
+                {name:'峰哥', gender:'男', age: 18},
+                {name:'范冰冰', gender:'女', age: 24},
+                {name:'刘亦菲', gender:'女', age: 18},
+                {name:'古力娜扎', gender:'女', age: 25}
+            ],
+            show:true,
+            title: "title",
+        },
+        methods:{
+            decrement(ev){
+                this.num--;
+            }
+        }
+    })
+</script>
+
+</body>
+</html>

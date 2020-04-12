@@ -1,0 +1,165 @@
+POST http://localhost:8081/spec/group
+Accept: application/json;charset=UTF-8
+
+###
+
+POST http://localhost:8081/spec/groups
+
+<> 2020-04-12T104649.500.json
+
+###
+
+POST http://localhost:8081/spec/groups
+
+<> 2020-04-12T104631.500.json
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/brand/page
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/brand/page
+
+<> 2020-04-12T012821.200.json
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T091331.200.json
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T091325.200.json
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T091301.200.json
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T090044.200.json
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T085844.200.json
+
+###
+
+GET http://localhost:8081/category/list
+
+<> 2020-04-11T085813.200.json
+
+###
+
+GET http://localhost:8081/brand/page
+
+<> 2020-04-11T062757.200.json
+
+###
+

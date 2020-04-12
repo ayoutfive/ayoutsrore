@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85c54864-bb5a-46c9-bd34-278c870fa829" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ayout" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJFt4n4AWqsf3lOXRS9n4IvHkA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ayout-item/ayout-item-service/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ayout-item/ayout-item-service/src/main/java/com/ayout/item/mapper" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item\service" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item\mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item\mapper" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item\service\impl" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-item\ayout-item-service\src\main\java\com\ayout\item\service" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-upload\src\main\resources" />
+      <recent name="F:\code\java\noviciate\code\ayout\ayout-getway\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ayout.item.mapper" />
+      <recent name="com.ayout.item.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ayout.item.mapper" />
+      <recent name="com.ayout.upload.Service." />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/spec/group" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json;charset=UTF-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/spec/groups" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8081/brand/page" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8081/category/list" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.AyoutItemApplication#5">
+    <configuration name="AyoutItemApplication#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/AyoutItemApplication.http" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AyoutItemApplication#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/AyoutItemApplication.http" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AyoutGetwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ayout-getway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ayout.AyoutGetwayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AyoutItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ayout-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ayout.AyoutItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AyoutRsgistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ayout-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ayout.AyoutRsgistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AyoutGetwayApplication" />
+      <item itemvalue="Spring Boot.AyoutItemApplication" />
+      <item itemvalue="Spring Boot.AyoutRsgistryApplication" />
+      <item itemvalue="HTTP Request.AyoutItemApplication#4" />
+      <item itemvalue="HTTP Request.AyoutItemApplication#5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AyoutItemApplication" />
+        <item itemvalue="HTTP Request.AyoutItemApplication#5" />
+        <item itemvalue="HTTP Request.AyoutItemApplication#4" />
+        <item itemvalue="Spring Boot.AyoutRsgistryApplication" />
+        <item itemvalue="Spring Boot.AyoutGetwayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.25432527" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c54864-bb5a-46c9-bd34-278c870fa829" name="Default Changelist" comment="" />
+      <created>1586446000285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586446000285</updated>
+      <workItem from="1586446001472" duration="4369000" />
+      <workItem from="1586450996482" duration="1736000" />
+      <workItem from="1586579932805" duration="612000" />
+      <workItem from="1586580564821" duration="19629000" />
+      <workItem from="1586617027152" duration="11203000" />
+      <workItem from="1586656961427" duration="14794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1009" y="184" key="#Project_Structure" timestamp="1586658483999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1009" y="184" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1586658483999" />
+    <state x="1216" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1586680604588">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1216" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586680604588" />
+    <state x="969" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586615737932">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="969" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586615737932" />
+    <state x="925" y="413" width="539" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586681570140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="925" y="413" width="539" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1586681570140" />
+    <state x="449" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586680690395">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586680690395" />
+    <state x="690" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586680447673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586680447673" />
+    <state x="1197" y="281" key="FileChooserDialogImpl" timestamp="1586579943522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1197" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586579943522" />
+    <state width="485" height="220" key="GridCell.Tab.0.bottom" timestamp="1586686957492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="485" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957492" />
+    <state width="485" height="220" key="GridCell.Tab.0.center" timestamp="1586686957492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="485" height="220" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957492" />
+    <state width="485" height="220" key="GridCell.Tab.0.left" timestamp="1586686957492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="485" height="220" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957492" />
+    <state width="485" height="220" key="GridCell.Tab.0.right" timestamp="1586686957492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="485" height="220" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957492" />
+    <state width="861" height="259" key="GridCell.Tab.1.bottom" timestamp="1586686957490">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="861" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957490" />
+    <state width="861" height="259" key="GridCell.Tab.1.center" timestamp="1586686957490">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="861" height="259" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957490" />
+    <state width="861" height="259" key="GridCell.Tab.1.left" timestamp="1586686957490">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="861" height="259" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957490" />
+    <state width="861" height="259" key="GridCell.Tab.1.right" timestamp="1586686957490">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="861" height="259" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586686957490" />
+    <state x="949" y="181" key="Maven.ArtifactSearchDialog" timestamp="1586595911866">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="949" y="181" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586595911866" />
+    <state x="697" y="192" key="SettingsEditor" timestamp="1586658802298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="192" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586658802298" />
+    <state x="994" y="327" key="chooseDestDirectoryDialog" timestamp="1586681422567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="994" y="327" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586681422567" />
+    <state x="669" y="227" key="new project wizard" timestamp="1586684710729">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="227" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586684710729" />
+    <state x="857" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1586682363619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="857" y="254" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586682363619" />
+  </component>
+</project>

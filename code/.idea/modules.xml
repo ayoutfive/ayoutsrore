@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01springboot/01springboot.iml" filepath="$PROJECT_DIR$/01springboot/01springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02springboot_user/02springboot_user.iml" filepath="$PROJECT_DIR$/02springboot_user/02springboot_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03springcloud_service_provider/03springcloud_service.iml" filepath="$PROJECT_DIR$/03springcloud_service_provider/03springcloud_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/com.itcast.springboot.iml" filepath="$PROJECT_DIR$/springboot/com.itcast.springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-demo/http-demo.iml" filepath="$PROJECT_DIR$/http-demo/http-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcasr-eureka/itcasr-eureka.iml" filepath="$PROJECT_DIR$/itcasr-eureka/itcasr-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_service_consumer/springcloud_service_consumer.iml" filepath="$PROJECT_DIR$/springcloud_service_consumer/springcloud_service_consumer.iml" />
+    </modules>
+  </component>
+</project>

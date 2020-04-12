@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_service_consumer" />
+        <module name="02springboot_user" />
+        <module name="http-demo" />
+        <module name="itcasr-eureka" />
+        <module name="03springcloud_service" />
+        <module name="erueka-server" />
+        <module name="erueka_server" />
+        <module name="01springboot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01springboot" target="1.8" />
+      <module name="02springboot_user" target="1.8" />
+      <module name="03springcloud_service" target="1.8" />
+      <module name="03springcloud_service_provider" target="1.8" />
+      <module name="04erueka" target="1.8" />
+      <module name="com.itcast.springboot" target="1.8" />
+      <module name="erueka" target="1.8" />
+      <module name="erueka-server" target="1.8" />
+      <module name="erueka_server" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="http-demo" target="1.8" />
+      <module name="itcasr-eureka" target="1.8" />
+      <module name="springcloud_service_consumer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01springboot" options="-parameters" />
+      <module name="02springboot_user" options="-parameters" />
+      <module name="03springcloud_service" options="-parameters" />
+      <module name="03springcloud_service_provider" options="-parameters" />
+      <module name="04erueka" options="-parameters" />
+      <module name="erueka" options="-parameters" />
+      <module name="erueka-server" options="-parameters" />
+      <module name="erueka_server" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="http-demo" options="-parameters" />
+      <module name="itcasr-eureka" options="-parameters" />
+      <module name="springcloud_service_consumer" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>hello-vue</title>
+</head>
+<body>
+
+<!--Vue的对象的html模版-->
+<div id = "app" >
+   <!--双向绑定-->
+    <input type="text" v-model="num"/>
+    <!--定义事件 v-on：事件名 = js表达式-->
+    <input type="button" v-on:click ="incr" value="点我呀"/>
+
+    <!--花括号 JS表达式-->
+    <h1>大家好，我是{{name}}，有多少{{num}}为人</h1>
+    <h1>大家好，我是{{name}}，有多少{{num}}为人</h1>
+
+    v-text:<span v-text="hello"></span> <br/>
+    v-html:<span v-html="hello"></span>
+
+</div>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script>
+    /*初始化一个Vue实例*/
+    const app = new Vue({
+        el:"#app",//element选择器
+        data:{//定义数据类型
+            name:"Noviciaite",
+            num : 5,
+            hello:"<h1>大家好，我是峰哥</h1>"
+        },
+        methods:{
+            incr(){
+                this.num++;
+
+            }
+        },
+        created: function () {
+            this.num = 100;
+        }
+    })
+
+
+</script>
+
+
+</body>
+</html>

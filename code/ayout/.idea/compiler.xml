@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ayout-upload" />
+        <module name="ayout-getway" />
+        <module name="ayout-item-service" />
+        <module name="ayout-registry" />
+        <module name="ayout-item-interface" />
+        <module name="ayouy-portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ayouy-portal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ayout" options="-parameters" />
+      <module name="ayout-common" options="-parameters" />
+      <module name="ayout-getway" options="-parameters" />
+      <module name="ayout-item-interface" options="-parameters" />
+      <module name="ayout-item-service" options="-parameters" />
+      <module name="ayout-registry" options="-parameters" />
+      <module name="ayout-upload" options="-parameters" />
+      <module name="ayouy-portal" options="-parameters" />
+    </option>
+  </component>
+</project>
